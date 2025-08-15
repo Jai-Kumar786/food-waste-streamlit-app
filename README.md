@@ -140,13 +140,4 @@ streamlit run app.py
 - Real-time Notifications: Add a system to notify receivers when new food items are listed in their area.
 - Advanced Analytics: Incorporate predictive models to forecast food surplus hotspots or peak demand times.
 
-[1] https://www.markdownguide.org/basic-syntax/
-[2] https://www.markdownguide.org/getting-started/
-[3] https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-[4] https://colab.research.google.com/notebooks/markdown_guide.ipynb
-[5] https://support.google.com/docs/answer/12014036?hl=en
-[6] https://euangoddard.github.io/clipboard2markdown/
-[7] https://learn.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops
-[8] https://support.pendo.io/hc/en-us/articles/360031866552-Markdown-syntax-for-guide-text-styling
-[9] https://www.markdownguide.org/hacks/
-[10] https://www.sharetribe.com/help/en/articles/8404687-how-to-format-your-text-and-content-in-pages-with-markdown
+
